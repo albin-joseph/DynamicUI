@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
  <view id="1" color="0.8 0.7 0.9 1.0" x="0" y="0" width="320" height="480">
-  <view id="2" color="0.9 0.1 0.3 1.0" x="20" y="20" width="280" height="200">
+  <view id="2" color="0.9 0.1 0.3 1.0" x="20" y="20" width="748" height="500">
      <textfield id="5" x="10" y="90" width="180" height="40" placeholder="enter text" color="1.0 1.0 1.0 1.0" target_id="6"></textfield>
      <button id="4" color="0.2 0.2 0.2 1.0" x="220" y="90" width="40" height="40" title="push"></button>
   </view>
-  <view id="3" color="0.1 0.8 0.3 1.0" x="20" y="240" width="280" height="100">
+  <view id="3" color="0.1 0.8 0.3 1.0" x="20" y="240" width="748" height="100">
      <label id="6" color="0.5 0.5 0.5 1.0" x="20" y="20" title="some label..." width="200" height="80"></label>
   </view>
  </view>
