@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <MainView>
+       <UINavigationController id="navigationController" width="320" height="50">
+               <UINavigationBar id="navBar" width="320" height="50" title="Title" color="blue">
+                       
+               </UINavigationBar>
+       </UINavigationController>
         <UIButton id="btntest" width="100" height="50" posX="50" posY="50" type="Custom" titleForState="Normal~@OK"
         backgroundImageForState="Normal~@image.png|Highlated~@highlated.png"  
         imageForState="Normal~@image.png|Highlated~@highlated.png"/>  
