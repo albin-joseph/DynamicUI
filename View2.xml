@@ -7,9 +7,9 @@
         backgroundImageForState="Normal~@image.png|Highlated~@highlated.png"  
         imageForState="Normal~@image.png|Highlated~@highlated.png" buttonType="roundRect"/>  
         
-        <UILabel id="titlelabel" width="300" height="50" posX="0" posY="0" text="BlaBla" textAlignment="Center"/> 
+        <UILabel id="titlelabel" width="300" height="50" posX="0" posY="0" text="SecondView" textAlignment="Center" color="redColor"/> 
         
-        <UIView id="holder" width="320" height="120" posX="0" posY="120" backgroundColor="Black" useAlpha="YES" alpha="0.5" opaque="YES">
+       
         
         
         
